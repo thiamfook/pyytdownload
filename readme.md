@@ -8,7 +8,7 @@ Added link validation, and also the download progress bar. The progress bar idea
 
 Have Python 3 installed. Download it from https://www.python.org/downloads/
 
-Install pytube library:
+Install pytube library (version 15):
 
     pip install pytube
 
